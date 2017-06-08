@@ -1,8 +1,8 @@
 # ConferencR
 Conferences &amp; Speeches conveniently close at hand
 
-#Stack
+# Stack
 This project use Gulp / Sass / BrowserSync (temporary)
 
-#How to start the project
+# How to start the project
 - gulp watch => Launch a webserver and host the app.
